@@ -15,4 +15,4 @@ $ rails s
 $ yarn watch
 ```
 
-Navigate to the localhost at [localhost:3000](localhost:3000)
+Navigate to the localhost at (localhost:3000)[localhost:3000]
