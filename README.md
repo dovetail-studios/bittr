@@ -1,12 +1,12 @@
-# README
+# Bittr
 
-To run the app -
-
-You need
+Prerequisites
 
 - Ruby '2.6.3'
 - Rails 6+
 - PostgreSQL
+
+To run the app follow the commands within the app directory -
 
 ```
 $ bundle install
