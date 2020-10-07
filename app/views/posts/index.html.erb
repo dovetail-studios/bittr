@@ -1,0 +1,11 @@
+
+<div class="container">
+  <h1>Bittr</h1>
+  <h2>Just honest twitter</h2>
+  
+  <%= render "form" %>
+
+  <div id="timeline">
+    <%= render partial: "post", collection: @posts %>
+  </div>
+</div>
